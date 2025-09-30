@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "HydroGrow - Hydroponics Farming Solutions",
-  description: "Leading hydroponics equipment manufacturer offering comprehensive solutions for commercial and urban hydroponics projects. Sustainable agriculture for the future.",
+  title: "HydroGrow - Fresh Hydroponic Fruits & Vegetables",
+  description: "Leading providers of fresh fruits and vegetables produced by hydroponics in the market. Nutrient-rich, pesticide-free produce grown sustainably year-round.",
 };
 
 export default function RootLayout({

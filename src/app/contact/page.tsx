@@ -35,7 +35,7 @@ export default function Contact() {
               Contact Us
             </h1>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              Get in touch with our hydroponics experts. We&apos;re here to help you start your sustainable farming journey.
+              Get in touch with our fresh produce team. We&apos;re here to help you access the finest hydroponically grown fruits and vegetables.
             </p>
           </div>
         </div>
@@ -125,7 +125,7 @@ export default function Contact() {
                     value={formData.message}
                     onChange={handleChange}
                     className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-green-500 focus:border-transparent"
-                    placeholder="Tell us about your hydroponics project or any questions you have..."
+                    placeholder="Tell us about your produce needs, delivery requirements, or any questions you have..."
                   />
                 </div>
 
@@ -241,7 +241,7 @@ export default function Contact() {
               Frequently Asked Questions
             </h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              Find answers to common questions about our hydroponics solutions and services.
+              Find answers to common questions about our fresh hydroponic produce and delivery services.
             </p>
           </div>
 
@@ -249,31 +249,31 @@ export default function Contact() {
             <div className="space-y-6">
               <div className="bg-white p-6 rounded-lg shadow-sm">
                 <h3 className="text-lg font-semibold text-gray-900 mb-2">
-                  What types of hydroponic systems do you offer?
+                  What types of produce do you offer?
                 </h3>
                 <p className="text-gray-600">
-                  We offer a wide range of hydroponic systems including NFT channels, Dutch buckets, vertical walls, 
-                  vertical towers, and grow lights for both commercial and home use.
+                  We offer a wide range of fresh fruits and vegetables including leafy greens, tomatoes, peppers, 
+                  berries, herbs, cucumbers, and microgreens, all grown using advanced hydroponic techniques.
                 </p>
               </div>
 
               <div className="bg-white p-6 rounded-lg shadow-sm">
                 <h3 className="text-lg font-semibold text-gray-900 mb-2">
-                  Do you provide installation services?
+                  Do you offer delivery services?
                 </h3>
                 <p className="text-gray-600">
-                  Yes, we offer complete installation services for all our hydroponic systems. Our expert team will 
-                  set up your system and provide training on operation and maintenance.
+                  Yes, we provide fresh produce delivery services to local markets, restaurants, and individual customers. 
+                  Our produce is harvested daily and delivered within 24 hours to ensure maximum freshness.
                 </p>
               </div>
 
               <div className="bg-white p-6 rounded-lg shadow-sm">
                 <h3 className="text-lg font-semibold text-gray-900 mb-2">
-                  What crops can be grown hydroponically?
+                  How fresh is your produce?
                 </h3>
                 <p className="text-gray-600">
-                  Most leafy greens, herbs, tomatoes, peppers, cucumbers, and strawberries grow excellently in 
-                  hydroponic systems. We can help you choose the best crops for your specific setup.
+                  Our produce is harvested at peak ripeness and delivered within 24 hours. We use advanced 
+                  hydroponic techniques to ensure maximum freshness, nutrition, and flavor in every product.
                 </p>
               </div>
             </div>
@@ -281,31 +281,31 @@ export default function Contact() {
             <div className="space-y-6">
               <div className="bg-white p-6 rounded-lg shadow-sm">
                 <h3 className="text-lg font-semibold text-gray-900 mb-2">
-                  How much water does hydroponics save?
+                  Are your products organic?
                 </h3>
                 <p className="text-gray-600">
-                  Hydroponic systems use up to 90% less water than traditional soil-based farming because water 
-                  is recirculated and plants only use what they need.
+                  While our produce is grown without soil and pesticides, we focus on sustainable hydroponic methods. 
+                  Our growing process uses 90% less water and produces zero soil waste, making it environmentally friendly.
                 </p>
               </div>
 
               <div className="bg-white p-6 rounded-lg shadow-sm">
                 <h3 className="text-lg font-semibold text-gray-900 mb-2">
-                  Do you offer training programs?
+                  Do you offer bulk orders?
                 </h3>
                 <p className="text-gray-600">
-                  Yes, we offer comprehensive training programs including workshops, courses, and hands-on sessions 
-                  for beginners to advanced growers.
+                  Yes, we offer bulk orders for restaurants, grocery stores, and wholesale customers. 
+                  Contact us for custom pricing and delivery schedules tailored to your business needs.
                 </p>
               </div>
 
               <div className="bg-white p-6 rounded-lg shadow-sm">
                 <h3 className="text-lg font-semibold text-gray-900 mb-2">
-                  What is your warranty policy?
+                  What is your quality guarantee?
                 </h3>
                 <p className="text-gray-600">
-                  All our hydroponic systems come with a comprehensive warranty. Contact us for specific warranty 
-                  details based on the system you&apos;re interested in.
+                  We guarantee the freshness and quality of all our produce. If you&apos;re not satisfied with your order, 
+                  contact us within 24 hours for a full refund or replacement.
                 </p>
               </div>
             </div>
