@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "HydroGrow - Fresh Hydroponic Fruits & Vegetables",
+  title: "Ecobloom - Fresh Hydroponic Fruits & Vegetables",
   description: "Leading providers of fresh fruits and vegetables produced by hydroponics in the market. Nutrient-rich, pesticide-free produce grown sustainably year-round.",
 };
 

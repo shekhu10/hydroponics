@@ -8,7 +8,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center">
             <h1 className="text-4xl md:text-6xl font-bold text-gray-900 mb-6">
-              HydroGrow
+              Ecobloom
             </h1>
             <p className="text-xl md:text-2xl text-gray-600 mb-8 max-w-3xl mx-auto">
               Fresh Fruits & Vegetables Grown with Hydroponics
@@ -264,7 +264,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid md:grid-cols-3 gap-8">
             <div>
-              <h3 className="text-2xl font-bold text-green-400 mb-4">HydroGrow</h3>
+              <h3 className="text-2xl font-bold text-green-400 mb-4">Ecobloom</h3>
               <p className="text-gray-300 mb-4">
                 Leading providers of fresh fruits and vegetables produced by hydroponics in the market. 
                 We deliver nutrient-rich, pesticide-free produce grown sustainably year-round.
@@ -280,14 +280,14 @@ export default function Home() {
             <div>
               <h4 className="text-lg font-semibold mb-4">Contact Info</h4>
               <div className="text-gray-300 space-y-2">
-                <p>Email: deepika@hydrogrow.com</p>
+                <p>Email: deepika@ecobloom.com</p>
                 <p>Phone: +1 (555) 123-4567</p>
                 <p>Address: BIMM, Pune, GC 12345</p>
               </div>
             </div>
           </div>
           <div className="border-t border-gray-700 mt-8 pt-8 text-center text-gray-400">
-            <p>&copy; 2024 HydroGrow. All rights reserved.</p>
+            <p>&copy; 2025 Ecobloom. All rights reserved.</p>
           </div>
         </div>
       </footer>

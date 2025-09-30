@@ -13,7 +13,7 @@ export default function Navigation() {
           {/* Logo */}
           <div className="flex-shrink-0">
             <Link href="/" className="text-2xl font-bold text-green-600">
-              HydroGrow
+              Ecobloom
             </Link>
           </div>
 

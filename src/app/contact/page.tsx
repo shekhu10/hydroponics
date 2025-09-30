@@ -150,8 +150,8 @@ export default function Contact() {
                   </div>
                   <div>
                     <h3 className="text-lg font-semibold text-gray-900 mb-2">Email Us</h3>
-                    <p className="text-gray-600 mb-1">deepika@hydrogrow.com</p>
-                    <p className="text-gray-600">deepikaVashisth@hydrogrow.com</p>
+                    <p className="text-gray-600 mb-1">deepika@ecobloom.com</p>
+                    <p className="text-gray-600">deepikaVashisth@ecobloom.com</p>
                   </div>
                 </div>
 
