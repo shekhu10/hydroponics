@@ -35,7 +35,7 @@ export default function Contact() {
               Contact Us
             </h1>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              Get in touch with our hydroponics experts. We're here to help you start your sustainable farming journey.
+              Get in touch with our hydroponics experts. We&apos;re here to help you start your sustainable farming journey.
             </p>
           </div>
         </div>
@@ -305,7 +305,7 @@ export default function Contact() {
                 </h3>
                 <p className="text-gray-600">
                   All our hydroponic systems come with a comprehensive warranty. Contact us for specific warranty 
-                  details based on the system you're interested in.
+                  details based on the system you&apos;re interested in.
                 </p>
               </div>
             </div>
