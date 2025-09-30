@@ -192,9 +192,9 @@ export default function Home() {
             <div>
               <h4 className="text-lg font-semibold mb-4">Contact Info</h4>
               <div className="text-gray-300 space-y-2">
-                <p>Email: info@hydrogrow.com</p>
+                <p>Email: deepika@hydrogrow.com</p>
                 <p>Phone: +1 (555) 123-4567</p>
-                <p>Address: 123 Farm Street, Green City, GC 12345</p>
+                <p>Address: BIMM, Pune, GC 12345</p>
               </div>
             </div>
           </div>

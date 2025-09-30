@@ -150,8 +150,8 @@ export default function Contact() {
                   </div>
                   <div>
                     <h3 className="text-lg font-semibold text-gray-900 mb-2">Email Us</h3>
-                    <p className="text-gray-600 mb-1">info@hydrogrow.com</p>
-                    <p className="text-gray-600">support@hydrogrow.com</p>
+                    <p className="text-gray-600 mb-1">deepika@hydrogrow.com</p>
+                    <p className="text-gray-600">deepikaVashisth@hydrogrow.com</p>
                   </div>
                 </div>
 
@@ -178,9 +178,9 @@ export default function Contact() {
                   <div>
                     <h3 className="text-lg font-semibold text-gray-900 mb-2">Visit Us</h3>
                     <p className="text-gray-600">
-                      123 Farm Street<br />
-                      Green City, GC 12345<br />
-                      United States
+                      BIMM<br />
+                      Pune, GC 12345<br />
+                      India
                     </p>
                   </div>
                 </div>
